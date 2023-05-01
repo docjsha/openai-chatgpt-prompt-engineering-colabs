@@ -1,1 +1,1 @@
-# openai-chatgpt-prompt-engineering-colabs
+Saves the colabs from the short course as is.
